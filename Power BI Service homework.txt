@@ -1,4 +1,5 @@
 Objective of this practice:
+================
 
 a) You want to let your customers how to use Power BI app and how to browse reports
 b) How to scan a Power Bi Report
@@ -12,8 +13,8 @@ Step #1:
 Open mobile / tab, go to Power BI App, choose Power BI Service, and use the below
 credentials. [Go to play store or any store, download Power BI App]
 
-Power BI Account: 
-v_151124@vinaytechhouse.com
+Power BI Account
+User name: v_151124@vinaytechhouse.com
 
 Password: vinaytech@2024
 
